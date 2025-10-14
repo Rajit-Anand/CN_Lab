@@ -1,0 +1,40 @@
+Sending Frame 0
+ACK 0 lost , retransmitting ...
+Sending Frame 0
+ACK 0 lost , retransmitting ...
+Sending Frame 0
+ACK 0 received
+Sending Frame 1
+Frame 1 lost , retransmitting ...
+Sending Frame 1
+ACK 1 lost , retransmitting ...
+Sending Frame 1
+ACK 1 lost , retransmitting ...
+Sending Frame 1
+Frame 1 lost , retransmitting ...
+Sending Frame 1
+ACK 1 received
+Sending Frame 2
+Frame 2 lost , retransmitting ...
+Sending Frame 2
+Frame 2 lost , retransmitting ...
+Sending Frame 2
+ACK 2 received
+Sending Frame 3
+ACK 3 received
+Sending Frame 4
+ACK 4 lost , retransmitting ...
+Sending Frame 4
+ACK 4 received
+Sending Frame 5
+Frame 5 lost , retransmitting ...
+Sending Frame 5
+Frame 5 lost , retransmitting ...
+Sending Frame 5
+ACK 5 received
+Sending Frame 6
+Frame 6 lost , retransmitting ...
+Sending Frame 6
+ACK 6 received
+Sending Frame 7
+ACK 7 received
